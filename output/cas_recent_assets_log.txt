@@ -1,0 +1,35 @@
+======== Starting at 2024-12-17 00:58:59.606441
+4819 assets retrieved from esploro_assets.json.
+Found 913 CAS assets.
+42 CAS assets after 2023. Saving to output/cas_recent_assets.json
+======== Finished at 2024-12-17 00:59:01.157941
+======== Starting at 2024-12-17 02:57:10.989218
+4819 assets retrieved from esploro_assets.json.
+Found 913 CAS assets.
+42 CAS assets after 2023. Saving to output/cas_recent_assets.json
+======== Finished at 2024-12-17 02:57:12.817458
+======== Starting at 2024-12-17 04:15:04.679370
+4819 assets retrieved from esploro_assets.json.
+Found 913 CAS assets.
+42 CAS assets after 2023. Saving to output/cas_recent_assets.json
+======== Finished at 2024-12-17 04:15:06.046043
+======== Starting at 2024-12-17 06:17:16.065214
+4819 assets retrieved from esploro_assets.json.
+Found 913 CAS assets.
+42 CAS assets after 2023. Saving to output/cas_recent_assets.json
+======== Finished at 2024-12-17 06:17:17.579421
+======== Starting at 2024-12-17 08:16:44.953530
+4819 assets retrieved from esploro_assets.json.
+Found 913 CAS assets.
+42 CAS assets after 2023. Saving to output/cas_recent_assets.json
+======== Finished at 2024-12-17 08:16:48.798235
+======== Starting at 2024-12-17 10:13:12.214019
+4819 assets retrieved from esploro_assets.json.
+Found 913 CAS assets.
+42 CAS assets after 2023. Saving to output/cas_recent_assets.json
+======== Finished at 2024-12-17 10:13:14.147045
+======== Starting at 2024-12-17 12:23:24.523145
+4819 assets retrieved from esploro_assets.json.
+Found 913 CAS assets.
+42 CAS assets after 2023. Saving to output/cas_recent_assets.json
+======== Finished at 2024-12-17 12:23:26.412734
