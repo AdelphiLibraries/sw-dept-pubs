@@ -668,3 +668,8 @@ Found 913 CAS assets.
 Found 913 CAS assets.
 42 CAS assets after 2023. Saving to output/cas_recent_assets.json
 ======== Finished at 2024-12-28 02:40:29.421885
+======== Starting at 2024-12-28 04:13:38.419095
+4819 assets retrieved from esploro_assets.json.
+Found 913 CAS assets.
+42 CAS assets after 2023. Saving to output/cas_recent_assets.json
+======== Finished at 2024-12-28 04:13:40.400202
